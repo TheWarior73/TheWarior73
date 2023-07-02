@@ -33,7 +33,6 @@ See the [statistics](#stats)
 
 # Version française
 Salut ! Mon pseudo est TheWarior73, mais apelle moi Aline !\
-![me](https://cdn.discordapp.com/attachments/1042889170240163840/1125102130622111765/image.png?size=16&quality=lossless)
 
 Mes pronoms sont `she/her` \
 Je suis française et j'aprend l'informatique. 💻\
