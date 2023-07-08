@@ -11,13 +11,13 @@ I am French and i'm learning Cs 💻
 And i'm curently in High school !
 
 ## Curent projects
-[x] A personal project to try and manage a .csv file using python
+- [x] A personal project to try and manage a .csv file using python
 > honestly pretty fun to play with even if not yet designed for an average internet user   
 
-[ ] Finishing and reviewing translations for [Fractureiser](https://github.com/TheWarior73/fractureiser)
+- [ ] Finishing and reviewing translations for [Fractureiser](https://github.com/TheWarior73/fractureiser)
 
 ## Paused projects
-[ ] A [website](https://github.com/TheWarior73/Aedivos-wiki) for a minecraft community that is suposed to be a wiki
+- [ ] A [website](https://github.com/TheWarior73/Aedivos-wiki) for a minecraft community that is suposed to be a wiki
 
 ## Cool projects i worked on
 
@@ -47,12 +47,12 @@ Je suis française et j'aprend l'informatique. 💻\
 Actuelement au lycée
 
 ## Mes projets en cours
-[x] Un projet personel ou j'essaye de gérer un fichier .csv a l'aide d'une interface graphique en utilisant python    
+- [x] Un projet personel ou j'essaye de gérer un fichier .csv a l'aide d'une interface graphique en utilisant python    
 > Je prend du plaisir a experimenter dessus bien que ça ne soit pas encore fait pour l'utilisateur moyen de l'internet
 
-[ ] Finir de traduire en français le repo [Fractureiser](https://github.com/TheWarior73/fractureiser)
+- [ ] Finir de traduire en français le repo [Fractureiser](https://github.com/TheWarior73/fractureiser)
 ## Mes projets en pause
-[ ] Un [site web](https://github.com/TheWarior73/Aedivos-wiki) pour une communautée minecraft, fesant office de wiki. 
+- [ ] Un [site web](https://github.com/TheWarior73/Aedivos-wiki) pour une communautée minecraft, fesant office de wiki. 
 
 ---
 
