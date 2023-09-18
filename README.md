@@ -28,7 +28,9 @@ that's all for now, seems understandable since i'm not yet active
 ### What i use daily to create stuff
 
 - IDE: \
-[![Visual Studio Code](https://img.shields.io/badge/VSCode-black?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
+[![Static Badge](https://img.shields.io/badge/Visual-Studio_Code%20-%20black?style=flat-square&logo=visual-studio-code&logoColor=blue&labelColor=yellow)](https://code.visualstudio.com/)\
+[![Pycharm](https://img.shields.io/badge/Pycharm%20-%20JetBrains%20-%20black?style=flat-square&logo=pycharm&logoColor=yellow&labelColor=teal)](https://www.jetbrains.com/fr-fr/pycharm/)
+
 - Languages: \
 [![python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)](https://python.org)\
 [![html](https://img.shields.io/badge/HTML-black?style=flat-square&logo=html5)](https://developer.mozilla.org/fr/docs/Web/HTML) \
