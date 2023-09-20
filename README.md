@@ -12,13 +12,14 @@ I am French and i'm learning Cs 💻
 And i'm curently in High school !
 
 ## Curent projects
-- [x] A personal project to try and manage a .csv file using python
-> honestly pretty fun to play with even if not yet designed for an average internet user   
 
-- [ ] Finishing and reviewing translations for [Fractureiser](https://github.com/TheWarior73/fractureiser)
+- [x] Belote, A school project for a card game.
+- [ ] NFR Trainer Bot, A discord bot intended for privat use
 
 ## Paused projects
+- [ ] A personal project to try and manage a [.csv file using python](https://github.com/TheWarior73/Simple-csv-file-Manipulator)
 - [ ] A [website](https://github.com/TheWarior73/Aedivos-wiki) for a minecraft community that is suposed to be a wiki
+
 
 ## Cool projects i worked on
 
@@ -50,11 +51,12 @@ Je suis française et j'aprend l'informatique. 💻\
 Actuelement au lycée
 
 ## Mes projets en cours
-- [x] Un projet personel ou j'essaye de gérer un fichier .csv a l'aide d'une interface graphique en utilisant python    
-> Je prend du plaisir a experimenter dessus bien que ça ne soit pas encore fait pour l'utilisateur moyen de l'internet
 
-- [ ] Finir de traduire en français le repo [Fractureiser](https://github.com/TheWarior73/fractureiser)
+- [x] Belote, Un projet scolaire de jeux de belote.
+- [ ] NFR Trainer Bot, un bot discord ayant une utilitée privée
+
 ## Mes projets en pause
+- [ ] Un projet personel ou j'essaye de gérer un [fichier .csv a l'aide d'une interface graphique en utilisant python](https://github.com/TheWarior73/Simple-csv-file-Manipulator)
 - [ ] Un [site web](https://github.com/TheWarior73/Aedivos-wiki) pour une communautée minecraft, fesant office de wiki. 
 
 ---
@@ -62,7 +64,8 @@ Actuelement au lycée
 ### ce que j'utilise pour coder ! 
 
 - IDE: \
-[![Visual Studio Code](https://img.shields.io/badge/VSCode-black?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
+[![Static Badge](https://img.shields.io/badge/Visual-Studio_Code%20-%20black?style=flat-square&logo=visual-studio-code&logoColor=blue&labelColor=yellow)](https://code.visualstudio.com/)\
+[![Pycharm](https://img.shields.io/badge/Pycharm%20-%20JetBrains%20-%20black?style=flat-square&logo=pycharm&logoColor=yellow&labelColor=teal)](https://www.jetbrains.com/fr-fr/pycharm/)
 - Languages: \
 [![python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)](https://python.org)\
 [![html](https://img.shields.io/badge/HTML-black?style=flat-square&logo=html5)](https://developer.mozilla.org/fr/docs/Web/HTML) \
