@@ -22,7 +22,7 @@ And i'm curently in my senior year of High school !
 
 
 ## Cool projects i worked on
-> **Note :**
+> **Note**
 > School projects not included
 
 - [Fractureiser french translation](https://github.com/TheWarior73/fractureiser)   
@@ -39,7 +39,8 @@ that's all for now, seems understandable since i'm not yet active
 [![html](https://img.shields.io/badge/HTML-black?style=flat-square&logo=html5)](https://developer.mozilla.org/fr/docs/Web/HTML) \
 [![Css](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript)](https://developer.mozilla.org/fr/docs/Web/JavaScript) 
 - Git control: \
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/)\
+[![Desktop](https://img.shields.io/badge/Github-Desktop%20-%20black?style=flat-square&logo=github&logoColor=white&labelColor=purple)](https://desktop.github.com/)
 
 **See the [statistics](#stats-)** 
 
@@ -62,7 +63,7 @@ Actuellement en Terminale
 - [ ] Un [site web](https://github.com/TheWarior73/Aedivos-wiki) pour une communautée minecraft, fesant office de wiki. 
 
 ## Projets interessants sur lesquels j'ai travaillé
-> **Note :**
+> **Note**
 > Projets Scolaires non inclus
 
 - [Traduction Française de l'incident Fractureiser](https://github.com/TheWarior73/fractureiser)   
@@ -85,9 +86,9 @@ C'est tout pour l'instant considérant que mon activitée n'est pas encore très
 # stats 📊
 
 > codding activity over the months
->
-> ![activity](https://wakatime.com/share/@Th3_Warior/db25347c-4689-4bfd-a615-9ad0d044f335.svg)
+
+![activity](https://wakatime.com/share/@Th3_Warior/db25347c-4689-4bfd-a615-9ad0d044f335.svg)
 
 > Codding activity overall
->
-> ![activity all time](https://wakatime.com/share/@Th3_Warior/2f40ea0b-0e57-4511-9248-3f7959f90e75.svg)
+
+![activity all time](https://wakatime.com/share/@Th3_Warior/2f40ea0b-0e57-4511-9248-3f7959f90e75.svg)
