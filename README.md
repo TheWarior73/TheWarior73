@@ -13,7 +13,7 @@ And i'm curently in my senior year of High school !
 
 ## Curent projects
 
-- [x] Belote, A school project for a card game.
+- [x] Belote, A school project for a [card game](https://github.com/TheWarior73/Belote-TNSI--2023-2024). (french)
 - [ ] NFR Bots, Some discord bots for a [discord server](https://discord.gg/BFA8GTvsuN)
 
 ## Paused projects
@@ -55,7 +55,7 @@ Actuellement en Terminale
 
 ## Mes projets en cours
 
-- [x] Belote, Un projet scolaire de jeux de belote.
+- [x] Belote, Un projet scolaire de [jeux de belote](https://github.com/TheWarior73/Belote-TNSI--2023-2024).
 - [ ] NFR Bots, 3 bots pour un [serveur discord](https://discord.gg/BFA8GTvsuN) (anglais)
 
 ## Mes projets en pause
