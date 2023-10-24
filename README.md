@@ -25,7 +25,7 @@ And i'm curently in my senior year of High school !
 > **Note**
 > School projects not included
 
-- [Fractureiser french translation](https://github.com/TheWarior73/fractureiser)   
+- [Fractureiser french translation](https://github.com/TheWarior73/fractureiser/blob/main/lang/fr-FR/README.md)  
 that's all for now, seems understandable since i'm not yet active
 
 ### What i use daily to create stuff
@@ -66,7 +66,7 @@ Actuellement en Terminale
 > **Note**
 > Projets Scolaires non inclus
 
-- [Traduction Française de l'incident Fractureiser](https://github.com/TheWarior73/fractureiser)   
+- [Traduction Française de l'incident Fractureiser](https://github.com/TheWarior73/fractureiser/blob/main/lang/fr-FR/README.md)  
 C'est tout pour l'instant considérant que mon activitée n'est pas encore très dévelopée
 ---
 
