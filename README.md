@@ -13,8 +13,10 @@ And i'm curently in my senior year of High school !
 
 ## Curent projects
 
-- [x] Belote, A school project for a [card game](https://github.com/TheWarior73/Belote-TNSI--2023-2024). (french)
-- [ ] NFR Bots, Some discord bots for a [discord server](https://discord.gg/BFA8GTvsuN)
+- [x] NFR Bots, Some discord bots for a [discord server](https://discord.gg/BFA8GTvsuN) \
+      - NFR Trainer bumped to V2.1 ! \
+      - Admin is paused \
+      - Assistance is paused
 
 ## Paused projects
 - [ ] A personal project to try and manage a [.csv file using python](https://github.com/TheWarior73/Simple-csv-file-Manipulator)
@@ -23,8 +25,9 @@ And i'm curently in my senior year of High school !
 
 ## Cool projects i worked on
 > **Note**
-> School projects not included
+> Private repo not included
 
+- A school card game called ["belote"](https://github.com/TheWarior73/Belote-TNSI--2023-2024). ( French 🇫🇷 )
 - [Fractureiser french translation](https://github.com/TheWarior73/fractureiser/blob/main/lang/fr-FR/README.md)  
 that's all for now, seems understandable since i'm not yet active
 
@@ -37,7 +40,7 @@ that's all for now, seems understandable since i'm not yet active
 - Languages: \
 [![python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)](https://python.org)\
 [![html](https://img.shields.io/badge/HTML-black?style=flat-square&logo=html5)](https://developer.mozilla.org/fr/docs/Web/HTML) \
-[![Css](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript)](https://developer.mozilla.org/fr/docs/Web/JavaScript) 
+[![js](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript)](https://developer.mozilla.org/fr/docs/Web/JavaScript) (learning)
 - Git control: \
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/)\
 [![Desktop](https://img.shields.io/badge/Github-Desktop%20-%20black?style=flat-square&logo=github&logoColor=white&labelColor=purple)](https://desktop.github.com/)
@@ -55,8 +58,10 @@ Actuellement en Terminale
 
 ## Mes projets en cours
 
-- [x] Belote, Un projet scolaire de [jeux de belote](https://github.com/TheWarior73/Belote-TNSI--2023-2024).
-- [ ] NFR Bots, 3 bots pour un [serveur discord](https://discord.gg/BFA8GTvsuN) (anglais)
+- [x] NFR Bots, 3 bots pour un [serveur discord](https://discord.gg/BFA8GTvsuN) ( anglais 🇬🇧 ) \
+      - NFR Trainer MAJ versins V2.1 ! \
+      - Admin est en pause \
+      - Assistance est en pause
 
 ## Mes projets en pause
 - [ ] Un projet personel ou j'essaye de gérer un [fichier .csv a l'aide d'une interface graphique (console) en utilisant python](https://github.com/TheWarior73/Simple-csv-file-Manipulator)
@@ -64,8 +69,9 @@ Actuellement en Terminale
 
 ## Projets interessants sur lesquels j'ai travaillé
 > **Note**
-> Projets Scolaires non inclus
+> Projets Privés non inclus
 
+- Belote, Un projet scolaire de [jeux de belote](https://github.com/TheWarior73/Belote-TNSI--2023-2024).
 - [Traduction Française de l'incident Fractureiser](https://github.com/TheWarior73/fractureiser/blob/main/lang/fr-FR/README.md)  
 C'est tout pour l'instant considérant que mon activitée n'est pas encore très dévelopée
 ---
@@ -78,7 +84,7 @@ C'est tout pour l'instant considérant que mon activitée n'est pas encore très
 - Languages: \
 [![python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)](https://python.org)\
 [![html](https://img.shields.io/badge/HTML-black?style=flat-square&logo=html5)](https://developer.mozilla.org/fr/docs/Web/HTML) \
-[![Css](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript)](https://developer.mozilla.org/fr/docs/Web/JavaScript) 
+[![Js](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript)](https://developer.mozilla.org/fr/docs/Web/JavaScript) (learning)
 - Git control: \
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/)\
 [![Desktop](https://img.shields.io/badge/Github-Desktop%20-%20black?style=flat-square&logo=github&logoColor=white&labelColor=purple)](https://desktop.github.com/)
