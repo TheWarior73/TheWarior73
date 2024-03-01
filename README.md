@@ -98,3 +98,7 @@ C'est tout pour l'instant considérant que mon activitée n'est pas encore très
 > Codding activity overall
 
 ![activity all time](https://wakatime.com/share/@Th3_Warior/2f40ea0b-0e57-4511-9248-3f7959f90e75.svg)
+
+> trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=TheWarior73&theme=onedark&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
