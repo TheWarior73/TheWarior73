@@ -5,18 +5,14 @@
 
 Hi ! You can call me Aline !   
 
-![me](https://cdn.discordapp.com/attachments/1042889170240163840/1125102130622111765/image.png?size=16&quality=lossless)
-
 My pronouns are `she/her`   
 I am French and i'm learning Cs 💻   
-And i'm curently in my senior year of High school !
+I am curently in my senior year of High school !
 
 ## Curent projects
 
-- [x] NFR Bots, Some discord bots for a [discord server](https://discord.gg/BFA8GTvsuN) \
-      - NFR Trainer bumped to V2.1 ! \
-      - Admin is paused \
-      - Assistance is paused
+- [x] Yet another school project : takuzu grid generator + solver
+- [x] A simple [discord/vencord theme](https://github.com/TheWarior73/Basic-Discord-Theme)
 
 ## Paused projects
 - [ ] A personal project to try and manage a [.csv file using python](https://github.com/TheWarior73/Simple-csv-file-Manipulator)
@@ -24,66 +20,58 @@ And i'm curently in my senior year of High school !
 
 
 ## Cool projects i worked on
-> **Note**
-> Private repo not included
+> [!NOTE]
+> Private repo may not be included\
+> If a repo is private it will appear at the end of this section
 
-- A school card game called ["belote"](https://github.com/TheWarior73/Belote-TNSI--2023-2024). ( French 🇫🇷 )
+- A card game for school called ["belote"](https://github.com/TheWarior73/Belote-TNSI--2023-2024). ( French 🇫🇷 )
 - [Fractureiser french translation](https://github.com/TheWarior73/fractureiser/blob/main/lang/fr-FR/README.md)  
-that's all for now, seems understandable since i'm not yet active
 
-### What i use daily to create stuff
+--- private repos ---
+- NFR Bots, Some discord bots for a [discord server](https://discord.gg/BFA8GTvsuN)
 
-- IDE: \
-[![Static Badge](https://img.shields.io/badge/Visual-Studio_Code%20-%20black?style=flat-square&logo=visual-studio-code&logoColor=blue&labelColor=yellow)](https://code.visualstudio.com/)\
-[![Pycharm](https://img.shields.io/badge/Pycharm%20-%20JetBrains%20-%20black?style=flat-square&logo=pycharm&logoColor=yellow&labelColor=teal)](https://www.jetbrains.com/fr-fr/pycharm/)
 
-- Languages: \
-[![python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)](https://python.org)\
-[![html](https://img.shields.io/badge/HTML-black?style=flat-square&logo=html5)](https://developer.mozilla.org/fr/docs/Web/HTML) \
-[![js](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript)](https://developer.mozilla.org/fr/docs/Web/JavaScript) (learning)
-- Git control: \
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/)\
-[![Desktop](https://img.shields.io/badge/Github-Desktop%20-%20black?style=flat-square&logo=github&logoColor=white&labelColor=purple)](https://desktop.github.com/)
-
+**See [what I use daily to create stuff](#ce-que-jutilise-pour-coder)**\
 **See the [statistics](#stats-)** 
 
 ---
 
 # Version française
-Hello ! Vous pouvez m'appeler Aline !
+Hello ! je m'apelle Aline !
 
-Mes pronoms sont `she/her` \
+Mes pronoms sont `elle/la`(`she/her`) \
 Je suis française et j'apprends l'informatique. 💻\
 Actuellement en Terminale
 
 ## Mes projets en cours
 
-- [x] NFR Bots, 3 bots pour un [serveur discord](https://discord.gg/BFA8GTvsuN) ( anglais 🇬🇧 ) \
-      - NFR Trainer MAJ versins V2.1 ! \
-      - Admin est en pause \
-      - Assistance est en pause
+- [x] Un projet scolaire : générateur de grille de takuzu + solveur
+- [x] Un [theme discord](https://github.com/TheWarior73/Basic-Discord-Theme)
 
 ## Mes projets en pause
 - [ ] Un projet personel ou j'essaye de gérer un [fichier .csv a l'aide d'une interface graphique (console) en utilisant python](https://github.com/TheWarior73/Simple-csv-file-Manipulator)
 - [ ] Un [site web](https://github.com/TheWarior73/Aedivos-wiki) pour une communautée minecraft, fesant office de wiki. 
 
 ## Projets interessants sur lesquels j'ai travaillé
-> **Note**
-> Projets Privés non inclus
+> [!NOTE]
+> Projets Privés (code source privé) généralement non inclus \
+> Si un projet privé est inclu, il apparaitra a la fin de la section
 
 - Belote, Un projet scolaire de [jeux de belote](https://github.com/TheWarior73/Belote-TNSI--2023-2024).
 - [Traduction Française de l'incident Fractureiser](https://github.com/TheWarior73/fractureiser/blob/main/lang/fr-FR/README.md)  
-C'est tout pour l'instant considérant que mon activitée n'est pas encore très dévelopée
----
 
-### ce que j'utilise pour coder ! 
+--- Projets privés ---
+- [x] NFR Bots, 3 bots pour un [serveur discord](https://discord.gg/BFA8GTvsuN) ( anglais 🇬🇧 ) 
 
+# ce que j'utilise pour coder ! 
+> What I use daily to create stuff
 - IDE: \
 [![Static Badge](https://img.shields.io/badge/Visual-Studio_Code%20-%20black?style=flat-square&logo=visual-studio-code&logoColor=blue&labelColor=yellow)](https://code.visualstudio.com/)\
 [![Pycharm](https://img.shields.io/badge/Pycharm%20-%20JetBrains%20-%20black?style=flat-square&logo=pycharm&logoColor=yellow&labelColor=teal)](https://www.jetbrains.com/fr-fr/pycharm/)
 - Languages: \
 [![python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)](https://python.org)\
 [![html](https://img.shields.io/badge/HTML-black?style=flat-square&logo=html5)](https://developer.mozilla.org/fr/docs/Web/HTML) \
+[![astro](https://img.shields.io/badge/Astro-black?style=flat-square&logo=astro&logoColor=fff)](https://astro.build/) (learning)\
 [![Js](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript)](https://developer.mozilla.org/fr/docs/Web/JavaScript) (learning)
 - Git control: \
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/)\
@@ -91,14 +79,10 @@ C'est tout pour l'instant considérant que mon activitée n'est pas encore très
 
 # stats 📊
 
-> codding activity over the months
-
-![activity](https://wakatime.com/share/@Th3_Warior/db25347c-4689-4bfd-a615-9ad0d044f335.svg)
-
 > Codding activity overall
 
 ![activity all time](https://wakatime.com/share/@Th3_Warior/2f40ea0b-0e57-4511-9248-3f7959f90e75.svg)
 
-> trophies
+> trophies ``(ryo-ma/github-profile-trophy)``
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TheWarior73&theme=onedark&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=TheWarior73&theme=onedark&column=6&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
