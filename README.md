@@ -79,9 +79,9 @@ Actuellement en Terminale
 
 # stats 📊
 
-> Codding activity overall
+> Codding activity overall (since Jul 2nd 2023)
 
-![activity all time](https://wakatime.com/share/@Th3_Warior/2f40ea0b-0e57-4511-9248-3f7959f90e75.svg)
+[![wakatime](https://wakatime.com/badge/user/09a28213-6155-4ade-bbb8-ca2fd0d0ef47.svg)](https://wakatime.com/@09a28213-6155-4ade-bbb8-ca2fd0d0ef47)
 
 > trophies ``(ryo-ma/github-profile-trophy)``
 
