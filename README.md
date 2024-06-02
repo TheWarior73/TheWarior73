@@ -11,7 +11,7 @@ I am curently in my senior year of High school !
 
 ## Curent projects
 
-- [x] Yet another school project : takuzu grid generator + solver
+- An open source [Metro Map Editor](https://github.com/TheWarior73/Train_Map_Editor) 
 - [x] A simple [discord/vencord theme](https://github.com/TheWarior73/Basic-Discord-Theme)
 
 ## Paused projects
@@ -28,7 +28,7 @@ I am curently in my senior year of High school !
 - [Fractureiser french translation](https://github.com/TheWarior73/fractureiser/blob/main/lang/fr-FR/README.md)  
 
 --- private repos ---
-- NFR Bots, Some discord bots for a [discord server](https://discord.gg/BFA8GTvsuN)
+- NFR Bots, Some discord bots for a [discord server](https://discord.gg/BFA8GTvsuN) in the [NFR organisation](https://github.com/North-Foxbridge-Railways)
 
 
 **See [what I use daily to create stuff](#ce-que-jutilise-pour-coder)**\
@@ -45,7 +45,7 @@ Actuellement en Terminale
 
 ## Mes projets en cours
 
-- [x] Un projet scolaire : générateur de grille de takuzu + solveur
+- [x] Un [editeur de map](https://github.com/TheWarior73/Train_Map_Editor) (metro) open source
 - [x] Un [theme discord](https://github.com/TheWarior73/Basic-Discord-Theme)
 
 ## Mes projets en pause
@@ -61,7 +61,7 @@ Actuellement en Terminale
 - [Traduction Française de l'incident Fractureiser](https://github.com/TheWarior73/fractureiser/blob/main/lang/fr-FR/README.md)  
 
 --- Projets privés ---
-- [x] NFR Bots, 3 bots pour un [serveur discord](https://discord.gg/BFA8GTvsuN) ( anglais 🇬🇧 ) 
+- [x] NFR Bots, 3 bots pour un [serveur discord](https://discord.gg/BFA8GTvsuN) ( anglais 🇬🇧 ) pour [l'organisation NFR](https://github.com/North-Foxbridge-Railways)
 
 # ce que j'utilise pour coder ! 
 > What I use daily to create stuff
