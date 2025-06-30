@@ -22,13 +22,13 @@ I am a French college student at Université Savoie Mont Blanc (USMB), learning 
 
 --=•=--[ Latest ]--=•=--
 
-- [x] [J.P.E.G.](https://github.com/synnfall/JPEG) First year website project for Uni - [website](https://jpeg.cmi-info.fr) ( French 🇫🇷 )
+- [x] [J.P.E.G.](https://github.com/synnfall/JPEG) First year website project for Uni - [website](https://jpeg.cmi-info.fr) [ French :fr: ]
 
 --=•=--[ Public ]--=•=--
 
-- [x] A card game for school called ["belote"](https://github.com/TheWarior73/Belote-TNSI--2023-2024). ( French 🇫🇷 )
+- [x] A card game for school called ["belote"](https://github.com/TheWarior73/Belote-TNSI--2023-2024). [ French :fr: ]
 
-- [x] [Fractureiser french translation](https://github.com/TheWarior73/fractureiser/blob/main/lang/fr-FR/README.md)  ( French 🇫🇷 )
+- [x] [Fractureiser french translation](https://github.com/TheWarior73/fractureiser/blob/main/lang/fr-FR/README.md)  [ French :fr: ]
 
 --=•=--[ Private repos ]--=•=--
 - [x] NFR Bots, Some discord bots for a [discord server](https://discord.gg/BFA8GTvsuN) in the [NFR game](https://github.com/North-Foxbridge-Railways)
