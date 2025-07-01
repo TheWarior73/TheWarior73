@@ -4,7 +4,7 @@ You can call me Aline !
 My pronouns are `she/her`   
 I am a French college student at Université Savoie Mont Blanc (USMB), learning Computer Science. 💻 
 
-![stats](https://github-readme-stats.vercel.app/api?username=TheWarior73&show_icons=true&theme=transparent)
+![stats](https://github-readme-stats.vercel.app/api?username=TheWarior73&show_icons=true&theme=transparent&hide=stars&title_color=4E9F3D&icon_color=3a6743&text_color=cfcfcf&border_color=cfcfcf)
 
 ## I worked on
 
