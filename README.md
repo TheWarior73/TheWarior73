@@ -6,43 +6,85 @@ I am a French college student at Université Savoie Mont Blanc (USMB), learning 
 
 ![stats](https://github-readme-stats-fast.vercel.app/api?username=TheWarior73&show_icons=true&theme=transparent&hide=stars&title_color=4E9F3D&icon_color=3a6743&text_color=cfcfcf&border_color=cfcfcf)
 
-## I worked on
+## Projects
 
---=•=--[ Latest ]--=•=--
+### Academic Projects
+- **[Petits explorateurs](https://github.com/lasnelus/info405_explorateurs)**  
+  Second-year university project
 
-- [J.P.E.G.](https://github.com/synnfall/JPEG) First year website project for Uni - [website](https://jpeg.cmi-info.fr) [ French :fr: ]
+- **[J.P.E.G.](https://github.com/synnfall/JPEG)**  
+  First-year website project
 
---=•=--[ Public ]--=•=--
-- [My website](https://aline.cmi-info.fr) (hosted by a [friend](https://github.com/synnfall))
+- **[My website](https://github.com/TheWarior73/aline.cmi-info)**  
+  Personal website (hosted by a friend)
 
-- [Fractureiser french translation](https://github.com/TheWarior73/fractureiser/blob/main/lang/fr-FR/README.md)  [ French :fr: ]
 
---=•=--[ Private repos ]--=•=--
-- NFR Bots, Some discord bots for the discord server, home to the [NFR game](https://github.com/North-Foxbridge-Railways)
+### Contributions
+- **[Fractureiser – French translation](https://github.com/TheWarior73/fractureiser/blob/main/lang/fr-FR/README.md)**  
+  Translation for a critical Minecraft modding issue 🇫🇷
+
+
+### Private Projects
+- **ASCII-tests**  
+  Experiments with ASCII image representations
+
+- **API project**  
+  Fully functional API developed for college
+
+- **STSM**  
+  Train system manager for network visualization 🚄
+
+- **NFR Bots**  
+  Discord bots for the (now inactive) NFR game 🤖
 
 ---
 
 # What I use daily to create stuff
-- IDE: \
-[![Static Badge](https://img.shields.io/badge/VS-Codium%20-%20black?style=flat-square&logo=vscodium&logoColor=blue&labelColor=yellow)](https://code.visualstudio.com/)
 
-- Languages: \
-[![python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)](https://python.org)\
-[![html](https://img.shields.io/badge/HTML-black?style=flat-square&logo=html5)](https://developer.mozilla.org/fr/docs/Web/HTML) \
-[![Js](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript)](https://developer.mozilla.org/fr/docs/Web/JavaScript)\
-[![SQL](https://img.shields.io/badge/SQL-black?style=flat-square&logo=mysql)]()\
-[![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)]()
+<p >
+  <b>Operating Systems</b><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arch,windows" />
+  </a>
+</p>
 
-- Git control: \
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/)\
-[![Desktop](https://img.shields.io/badge/Github-Desktop%20-%20black?style=flat-square&logo=github&logoColor=white&labelColor=purple)](https://desktop.github.com/)
+<p >
+  <b>IDEs & Editors</b><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscodium,idea,vim&perline=5" />
+  </a>
+</p>
+
+<p >
+  <b>Languages</b><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,html,css,js,ts,java,ocaml,c,py,md&perline=5" />
+  </a>
+</p>
+
+<p >
+  <b>Frontend & Frameworks</b><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vue,tailwind,pinia,nodejs&perline=5" />
+  </a>
+</p>
+
+<p >
+  <b>Git & Version Control</b><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github" />
+  </a>
+</p>
+
+<p >
+  <b>Tools & Design</b><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,latex" />
+  </a>
+</p>
 
 # stats 📊
 
 > Codding activity overall (since Jul 2nd 2023)
 
 [![wakatime](https://wakatime.com/badge/user/09a28213-6155-4ade-bbb8-ca2fd0d0ef47.svg)](https://wakatime.com/@09a28213-6155-4ade-bbb8-ca2fd0d0ef47)
-
-> trophies ``(ryo-ma/github-profile-trophy)``
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=TheWarior73&theme=onedark&column=6&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
