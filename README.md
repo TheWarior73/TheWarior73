@@ -41,46 +41,46 @@ I am a French college student at Université Savoie Mont Blanc (USMB), learning 
 
 # What I use daily to create stuff
 
-<p >
-  <b>Operating Systems</b><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,windows" />
-  </a>
+<h2>Operating System</h2>
+<p>
+  <img src="https://skillicons.dev/icons?i=arch,windows" />
 </p>
 
-<p >
-  <b>IDEs & Editors</b><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscodium,idea,vim&perline=5" />
-  </a>
+<h2>IDEs & Editors</h2>
+<p>
+  <img src="https://skillicons.dev/icons?i=vscodium,idea,vim&perline=5" />
 </p>
 
-<p >
-  <b>Languages</b><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,html,css,js,ts,java,ocaml,c,py,md&perline=5" />
-  </a>
+<h2>Languages</h2>
+<p>
+  <img src="https://skillicons.dev/icons?i=bash,html,css,js,ts,java,ocaml,c,py,md,cs&perline=5" />
 </p>
 
-<p >
-  <b>Frontend & Frameworks</b><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,tailwind,pinia,nodejs&perline=5" />
-  </a>
+<h2>Frontend & Frameworks</h2>
+<p>
+  <img src="https://skillicons.dev/icons?i=vue,tailwind,pinia,nodejs&perline=5" />
 </p>
 
-<p >
-  <b>Git & Version Control</b><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github" />
-  </a>
+<h2>Git & Version Control</h2>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
-<p >
-  <b>Tools & Design</b><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,latex" />
-  </a>
+<h2>Tools & Design</h2>
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,latex,docker" />
+</p>
+
+<h1>My Goals</h1>
+                
+<h2>Learn</h2>
+<p>
+  <img src="https://skillicons.dev/icons?i=unity,unreal">
+</p>
+                
+<h2>Improve</h2>
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,figma,css,docker" />
 </p>
 
 # stats 📊
